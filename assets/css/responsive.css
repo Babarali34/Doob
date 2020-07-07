@@ -1,0 +1,46 @@
+@media  (max-width: 768px) {
+  
+     body
+     {text-align: }
+           h1
+          {font-size: 1.6rem;}
+           h2
+          {font-size: 1.6rem;}
+          p{font-size: 15px;}
+         .service-icon
+        {margin-left: 100px;}
+      
+ 
+           .container
+                   {width: 100%;}
+
+            .navigation
+                     {margin-left: 0px !important;} 
+
+             
+             .hero
+             {padding: 50px 0;overflow: hidden;}  
+
+
+               .hero .bg-shap img
+              { width: 300px;margin-left: 40px;margin-top: 20px; }  
+
+                .landing-text
+                {padding: 0 10px;}   
+
+                .services-section-content
+                   {padding: 80px 50px;overflow:hidden; } 
+
+                    .services-items
+         {width: 100%;background: #fff;margin-left: 0px;
+                 margin-top: 50px;}
+      
+          .blog-post
+          {margin-top: 30px;}
+          .services-content
+          {width: 100%;text-align: center;}
+      
+
+  }
+					
+			 
